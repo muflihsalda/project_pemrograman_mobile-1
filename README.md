@@ -60,11 +60,13 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 
 
 
-5. Vidio tampilan Spless screen dan prototype 
+5. Link Vidio tampilan Spless screen dan prototype 
 
 https://youtu.be/G6a6rZumr2Q?si=63cH7D6pzo6tI68i 
 
-[Klik  disini untuk melihat UXnya di figma](https://www.figma.com/proto/GmNOQOCnnWD8qFndQ84scz/tugas?node-id=104-121&t=26U5s91AFJUzEFui-1)
+7. Link figma
+
+https://www.figma.com/proto/tGTBqAyhH065rvIyyv3Wyt/APK-pengingat-sholat?node-id=1-5&starting-point-node-id=45%3A36&t=8XAzPGXmL89dUKco-1
 
 ## Link jadwal pada ClickUp
 
