@@ -59,11 +59,10 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 <img width="556" height="300" alt="Cuplikan layar 2025-11-11 230659" src="https://github.com/user-attachments/assets/977772a2-72bd-4d01-af98-13829797b452" />
 
 
-[Klik disini untuk melihat video ui di youtube](https://youtu.be/5fOo7RlYqhQ)
 
-5. UX (User Experience) VIDEO PROTOTYPE Project
+5. Vidio tampilan Spless screen dan prototype 
 
-[Klik disini untuk melihat Video UXnya di youtube](https://youtu.be/5fOo7RlYqhQ)
+[Klik disini untuk melihat Video di youtube](https://youtu.be/5fOo7RlYqhQ)](https://youtu.be/G6a6rZumr2Q?si=63cH7D6pzo6tI68i)
 
 [Klik  disini untuk melihat UXnya di figma](https://www.figma.com/proto/GmNOQOCnnWD8qFndQ84scz/tugas?node-id=104-121&t=26U5s91AFJUzEFui-1)
 
