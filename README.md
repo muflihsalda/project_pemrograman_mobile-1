@@ -18,9 +18,6 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 <img width="281" height="237" alt="Cuplikan layar 2025-11-11 211824" src="https://github.com/user-attachments/assets/0d669a19-2674-4f65-93c3-31059cb91f3e" />
 
 
-[Klik ini untuk melihat video splash screen di youtube](https://youtu.be/5fOo7RlYqhQ)
-
-
 - Tampilan logo
 
 Menampilkan logo aplikasi.
