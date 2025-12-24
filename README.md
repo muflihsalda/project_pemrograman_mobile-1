@@ -20,10 +20,6 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 
 [Klik ini untuk melihat video splash screen di youtube](https://youtu.be/5fOo7RlYqhQ)
 
-2. StoryBoard Project
-
-<img width="2000" height="1414" alt="Characterisation Storyboard English Green Illustrative Style " src="https://github.com/user-attachments/assets/0ee42b02-0748-458f-bc3b-db4f834e99d7" />
-
 
 - Tampilan logo
 
@@ -33,30 +29,22 @@ Menampilkan logo aplikasi.
 
 Ketika User sedang di indonesia tampilan ini akan berbahasa indonesia dan juga memunculkan lambang negaranya, begitupun sebaliknya jika user berada seperti di amerika, jepang, jerman dan lain-lain maka akan menampilkan bahasa dan lambang negara tersebut.
 
-- Dashboard/beranda
+2. StoryBoard Project
 
-Menampilkan catatan-catatan  yang sudah disimpan.
+<img width="2000" height="1414" alt="1" src="https://github.com/user-attachments/assets/1f33c106-4cb6-41cd-9696-9dca32f71a50" />
 
-- Tambah catatan
 
-Tampilan ini untuk menambahkan catatan baru untuk user dan akan muncul di dashboard ketika disimpan.
-
-- Tampilan catatan
-
-Jika user mengklik judul catatan pada kotak di dasboard tersebut akan melanjutkan ke tampilan catatan untuk melihat catatan tersebut. User juga bisa mengedit atau menghapus catatannya.
-
-- Edit catatan
-
-Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan tersebut dan menyimpannya.
 
 3. Mockup Project
 
-<img width="2000" height="1414" alt="Characterisation Storyboard English Green Illustrative Style  (1)" src="https://github.com/user-attachments/assets/83dcc7f2-4945-4acf-8c5b-1e8c3a64085e" />
+<img width="2000" height="1414" alt="2" src="https://github.com/user-attachments/assets/e7c03bfa-22b1-4512-9f8e-0cf59b660633" />
+
 
 
 4. UI (User Interface) Project
 
-<img width="556" height="300" alt="Cuplikan layar 2025-11-11 230659" src="https://github.com/user-attachments/assets/977772a2-72bd-4d01-af98-13829797b452" />
+<img width="717" height="367" alt="revisi_UI" src="https://github.com/user-attachments/assets/f2237b86-d444-4a6d-87fb-48a12a1f0c1f" />
+
 
 
 
