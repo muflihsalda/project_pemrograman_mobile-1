@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4A300">
+
+    <!-- BENDERA -->
+    <ImageView
+        android:id="@+id/flagImage"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="20dp"
+        android:src="@drawable/flag_id" />
+
+    <!-- TEXT SELAMAT DATANG -->
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:text="Selamat Datang"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:background="@drawable/welcome_box"/>
+
+</RelativeLayout>

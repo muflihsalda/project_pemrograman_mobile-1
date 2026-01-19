@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+local.properties
+/build
+/captures
+.externalNativeBuild/
+*.log
+samsung-SM-A245F-Android-14_2025-12-12_142908.logcat

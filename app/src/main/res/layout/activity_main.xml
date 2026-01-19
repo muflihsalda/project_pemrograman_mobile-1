@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4A300">
+
+    <!-- HEADER -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/txtLokasi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lokasi"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txtZona"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Zona"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"
+            android:layout_marginTop="6dp"/>
+
+        <TextView
+            android:id="@+id/txtJam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00:00"
+            android:textColor="#FFFFFF"
+            android:textSize="44sp"
+            android:textStyle="bold"
+            android:layout_marginTop="12dp"/>
+    </LinearLayout>
+
+    <!-- CARD JADWAL (mengambang di atas header) -->
+    <LinearLayout
+        android:id="@+id/cardJadwal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="-40dp"
+        android:background="@drawable/card_white_round"
+        android:padding="18dp"
+        android:elevation="8dp">
+
+        <!-- Row: Subuh -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Subuh"
+                android:textSize="18sp"
+                android:textColor="#444"/>
+
+            <TextView
+                android:id="@+id/txtSubuh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="04:14"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#111"/>
+        </LinearLayout>
+
+        <!-- Row: Dzuhur -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Dzuhur"
+                android:textSize="18sp"
+                android:textColor="#444"/>
+
+            <TextView
+                android:id="@+id/txtDzuhur"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11:46"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#111"/>
+        </LinearLayout>
+
+        <!-- Row: Ashar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Ashar"
+                android:textSize="18sp"
+                android:textColor="#444"/>
+
+            <TextView
+                android:id="@+id/txtAshar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="15:12"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#111"/>
+        </LinearLayout>
+
+        <!-- Row: Maghrib -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Maghrib"
+                android:textSize="18sp"
+                android:textColor="#444"/>
+
+            <TextView
+                android:id="@+id/txtMaghrib"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="17:59"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#111"/>
+        </LinearLayout>
+
+        <!-- Row: Isya -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Isya"
+                android:textSize="18sp"
+                android:textColor="#444"/>
+
+            <TextView
+                android:id="@+id/txtIsya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="19:11"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#111"/>
+        </LinearLayout>
+        <Button
+            android:id="@+id/btnSettingAdzan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pengaturan Notif Adzan"/>
+
+    </LinearLayout>
+
+</LinearLayout>
